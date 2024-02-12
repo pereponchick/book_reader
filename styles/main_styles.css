@@ -64,7 +64,8 @@ footer {
 .cards {
     display: flex;
     align-items: flex-start;
-    gap: 24px;
+    gap: 12px;
+    flex-wrap: wrap;
 }
 
 .description {
