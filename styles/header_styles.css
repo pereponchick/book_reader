@@ -38,7 +38,7 @@ input {
   color: #9E9C9C;
 }
 
-button {
+.header_button {
   position: absolute; 
   top: 0;
   right: 0px;
